@@ -1,0 +1,44 @@
+_repo: The-Pirate-and-The-Three-Cutters_29291
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sullivan, Edmund J. (Edmund Joseph)
+    alias: Sullivan, E. J. (Edmund Joseph)
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '8007'
+    url: http://www.gutenberg.org/2009/agents/8007
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryatt, Captain
+    - Marryat, F. W. (Frederick W.)
+    - Marryat, Kapitein
+    - Marryat, Captain
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: The pirate -- The three cutters -- Moonshine.
+gutenberg_issued: '2009-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Smugglers -- Fiction'
+- !lcsh 'Great Britain. Royal Navy -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+- !lcsh 'Seafaring life -- Fiction'
+title: The Pirate, and The Three Cutters
+url: http://www.gutenberg.org/ebooks/29291
